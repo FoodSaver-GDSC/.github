@@ -3,7 +3,7 @@
 ## Development Team
 
 - **JUHUI CHO**
-  - Role: Frontend Developer
+  - Role: Frontend Developer
   - GitHub: [John's GitHub](https://github.com/juhui88)
 
 - **KIM GWANGHYEON**
