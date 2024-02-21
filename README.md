@@ -1,26 +1,23 @@
 # FoodSaver : Food waste reduction app
 
-## Development Team
+# Development Team
 
-- **JUHUI JO**
-  - Role: Frontend Developer
-  - GitHub: [JUHUI's GitHub](https://github.com/juhui88)
+|                                  Front Developer                                     |                                 Back Developer                                 |                                 AI Developer                                     |                                 AI Developer                                 |
+| :-------------------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![JUHUI's GitHub Profile Image](https://github.com/juhui88.png) |![GWANGHYEON's GitHub Profile Image](https://github.com/g00hyun.png) |  ![MIYOUNG's GitHub Profile Image](https://github.com/miy0ung.png) | ![ISEO's GitHub Profile Image](https://github.com/iseo6702.png) |
+|                  [JUHUI JO]               |                 [GWANGHYEON KIM]                 |                 [MIYOUNG KIM]                 |                 [ ISEO KIM ]                 |
 
-- **GWANGHYEON KIM**
-  - Role: Backend Developer
-  - GitHub: [GWANGHYEON's GitHub](https://github.com/g00hyun)
 
-- **MIYOUNG KIM**
-  - Role: AI Developer
-  - GitHub: [MIYOUNG's GitHub](https://github.com/miy0ung)
- 
-- **ISEO KIM**
-  - Role: AI Developer
-  - GitHub: [ISEO's GitHub](https://github.com/iseo6702)
-  
 ## Background of the Idea
 
 The biggest concern faced while living alone is the problem of handling various ingredients purchased for cooking. Even if you want to cook, it's always difficult to utilize the remaining ingredients in the refrigerator effectively, resulting in making the same types of food. In such a situation, I thought it would be convenient to have an application that recommends recipes based on the entered ingredients.
+
+## Nations' Sustainable Development goal
+The United Nations' Sustainable Development Goals (SDGs) relevant to the solution include:
+
+1. **Goal 2: Zero Hunger**
+2. **Goal 12: Responsible Consumption and Production**
+- The inspiration for selecting these goals and targets stems from the solution's focus on reducing food waste, promoting responsible consumption, and ensuring access to nutritious food for all. By recommending recipes based on available ingredients, promoting community sharing of cooking ideas, and connecting users with food banks to reduce waste, the solution aligns with the objectives of Goal 2 and Target 12.3, contributing to efforts to combat hunger and promote sustainable consumption and production.
 
 ## Primary Process
 
