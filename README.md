@@ -2,11 +2,11 @@
 
 ## Development Team
 
-- **JUHUI CHO**
+- **JUHUI CHO**
   - Role: Frontend Developer
   - GitHub: [John's GitHub](https://github.com/juhui88)
 
-- **KIM GWANGHYEON **
+- **KIM GWANGHYEON**
   - Role: Backend Developer
   - GitHub: [Jane's GitHub](https://github.com/g00hyun)
 
