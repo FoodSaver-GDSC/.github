@@ -2,21 +2,21 @@
 
 ## Development Team
 
-- **JUHUI CHO**
+- **JUHUI JO**
   - Role: Frontend Developer
-  - GitHub: [John's GitHub](https://github.com/juhui88)
+  - GitHub: [JUHUI's GitHub](https://github.com/juhui88)
 
-- **KIM GWANGHYEON**
+- **GWANGHYEON KIM**
   - Role: Backend Developer
-  - GitHub: [Jane's GitHub](https://github.com/g00hyun)
+  - GitHub: [GWANGHYEON's GitHub](https://github.com/g00hyun)
 
-- **KIM MIYOUNG**
+- **MIYOUNG KIM**
   - Role: AI Developer
-  - GitHub: [Bob's GitHub](https://github.com/miy0ung)
+  - GitHub: [MIYOUNG's GitHub](https://github.com/miy0ung)
  
-- **KIM ISEO**
+- **ISEO KIM**
   - Role: AI Developer
-  - GitHub: [Bob's GitHub](https://github.com/iseo6702)
+  - GitHub: [ISEO's GitHub](https://github.com/iseo6702)
   
 ## Background of the Idea
 
